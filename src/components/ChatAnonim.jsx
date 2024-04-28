@@ -125,7 +125,7 @@ function Chat() {
         Swal.fire({
           icon: "error",
           title: "Blocked",
-          text: "You are blocked from sending messages.",
+          text: "Anda di Blokir! diketahui mengirim chat tidak pantas.",
           customClass: {
             container: "sweet-alert-container",
           },
